@@ -1,0 +1,41 @@
+h1{
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    text-align:left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.img-border {
+    height: 533px;
+    width: 800px;
+    border: 2px solid transparent;
+    padding: 13px;
+    border-image: linear-gradient(45deg,red,blue) 10;
+
+}
+
+.Box{
+    width: 828px;
+    height:6;
+    border-width: 2px;
+    border-style:groove;
+    background: yellow;
+}
+figcaption{
+    text-align: center;
+    font-style: italic;
+    font-size:medium;
+    font-weight: 400;
+}
+h2{
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    text-align:left;
+    font-family:'Trebuchet MS';
+
+}
+body{
+    background-color:thistle;
+}
+    
+
